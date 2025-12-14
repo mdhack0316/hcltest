@@ -1,4 +1,4 @@
 ---
-- hosts: 18.116.47.49
+- hosts: 18.219.133.118
   roles: 
   - role:  mayanknew.test.dnfmayank
